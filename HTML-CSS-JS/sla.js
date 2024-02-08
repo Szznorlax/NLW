@@ -1,93 +1,93 @@
 const perguntas = [
     {
-        pergunta: "Qual é o nome do mapa principal em League of Legends?",
+        pergunta: "Qual é o nome do campeão que é conhecido como o Espírito do Vento?",
         respostas: [
-            "Summoner's Rift",
-            "Howling Abyss",
-            "Twisted Treeline",
+            "Yasuo",
+            "Teemo",
+            "Zed",
         ],
         correta: 0
     },
     {
-        pergunta: "Qual é a rota padrão para o jungler em Summoner's Rift?",
+        pergunta: "Qual é a classe de campeões mais especializada em causar danos à distância?",
         respostas: [
-            "Top lane",
-            "Mid lane",
-            "Jungle",
+            "Tanque",
+            "Assassino",
+            "Atirador",
         ],
         correta: 2
     },
     {
-        pergunta: "Qual é o objetivo do jogo em League of Legends?",
+        pergunta: "Qual é o objetivo principal do jogo League of Legends?",
         respostas: [
-            "Destruir as torres inimigas",
-            "Matar o dragão",
-            "Destruir o Nexus inimigo",
+            "Destruir a base inimiga",
+            "Matar o maior número possível de minions",
+            "Capturar o Barão Nashor",
         ],
-        correta: 2
+        correta: 0
     },
     {
-        pergunta: "Quanto tempo leva para o Barão Nashor renascer após ser derrotado?",
+        pergunta: "Qual é o nome do mapa principal de League of Legends?",
         respostas: [
-            "5 minutos",
-            "7 minutos",
-            "10 minutos",
+            "Academia de Batalha",
+            "Summoner's Rift",
+            "Planalto do Dragão",
         ],
         correta: 1
     },
     {
-        pergunta: "Qual é a função do suporte na equipe?",
-        respostas: [
-            "Dar o maior dano possível",
-            "Curar os aliados",
-            "Fornecer utilidade e proteção para a equipe",
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "Qual é a classificação mais alta no sistema de ranqueamento?",
-        respostas: [
-            "Ouro",
-            "Diamante",
-            "Mestre",
-        ],
-        correta: 2
-    },
-    {
-        pergunta: "Qual é o nome do recurso utilizado para desbloquear habilidades dos campeões?",
+        pergunta: "Qual é o recurso mais importante para comprar itens durante uma partida?",
         respostas: [
             "Ouro",
             "Experiência",
-            "Essência Azul",
+            "Pontos de Vida",
+        ],
+        correta: 0
+    },
+    {
+        pergunta: "Qual é o nome do evento anual de League of Legends que celebra o campeonato mundial?",
+        respostas: [
+            "All-Star",
+            "Mid-Season Invitational",
+            "Worlds",
         ],
         correta: 2
     },
     {
-        pergunta: "Qual é a função do Dragão Ancião?",
+        pergunta: "Qual é o nome do jogo que serviu de inspiração para o desenvolvimento de League of Legends?",
         respostas: [
-            "Conceder bônus de dano aos campeões",
-            "Dar visão do mapa",
-            "Amplificar os bônus elementares",
+            "World of Warcraft",
+            "DotA: Defense of the Ancients",
+            "StarCraft",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é o objetivo do modo de jogo 'ARAM'?",
+        respostas: [
+            "Destruir a base inimiga",
+            "Matar o Barão Nashor",
+            "Combater em uma única rota sem volta à base",
         ],
         correta: 2
     },
     {
-        pergunta: "Quantos jogadores compõem uma equipe padrão em League of Legends?",
+        pergunta: "Qual é o nome do dragão que concede buffs de resistência elemental para a equipe que o mata?",
         respostas: [
-            "3",
-            "5",
-            "7",
+            "Dragão Ancião",
+            "Dragão da Montanha",
+            "Dragão Elemental",
         ],
         correta: 1
     },
     {
-        pergunta: "Qual é o campeão com maior mobilidade em League of Legends?",
+        pergunta: "Qual é o objetivo do modo de jogo 'Teamfight Tactics'?",
         respostas: [
-            "Darius",
-            "Yasuo",
-            "Zed",
+            "Destruir a base inimiga",
+            "Combater em um mapa com múltiplas rotas",
+            "Construir um time e competir em batalhas automáticas",
         ],
-        correta: 1
+        correta: 2
     },
 ];
 
